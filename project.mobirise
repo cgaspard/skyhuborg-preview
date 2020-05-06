@@ -71,7 +71,7 @@
       "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
       "textButton": "Agree"
     },
-    "favicon": "@PROJECT_PATH@/assets/images/favicon-64x64.png",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon.svg",
     "robotsSwitcher": false,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
@@ -79,7 +79,8 @@
     "gdpr": false,
     "google-analytics": "<style>\nimg[alt=\"partner\"] {\n  width: 55%;\n}\n</style>",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "witsec-white-label": true
+    "witsec-white-label": true,
+    "htmltag": "undefined"
   },
   "pages": {
     "index.html": {
